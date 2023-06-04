@@ -12,30 +12,30 @@ global.APIKeys = {
 }
 global.lolhuman = 'APOLOZEA'
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = '𝙰𝙳𝚁𝙸𝙰𝙽-𝙼𝙳'
-global.namaowner = '𝙰𝙳𝚁𝙸𝙰𝙽'
+global.namabot = 'AzxBot'
+global.namaowner = 'Ridhzz'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6289513081052']
-global.ownernomer = "6289513081052"
-global.premium = ['6289513081052']
-global.ultah = 'Maret 24, 2024'
+global.owner = ['62895348056622']
+global.ownernomer = "62895348056622"
+global.premium = ['62895348056622']
+global.ultah = 'Maret 11, 2024'
 
 //—————「 Setting Donasi 」—————//
-global.dana = '089513081052'
+global.dana = '0895'
 
 //—————「 Set Kebutuhan Button 」—————//
-global.email = 'azzygota24@gmail.com'
+global.email = 'ridmdr017@gmail.com'
 global.namaweb = 'TikTok'
-global.myweb = 'https://tiktok.com/@dryan.am'
+global.myweb = 'https://tiktok.com/@xyz1_008'
 global.region = 'Indonesia'
-global.github = 'https://github.com/AdrianTzy'
-global.mygc = 'https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10'
-global.myig = 'https://instagram.com/dryan.pu'
+global.github = 'https://github.com/anonymoushacker10p'
+global.mygc = 'https://chat.whatsapp.com/'
+global.myig = 'https://instagram.com/gridhzz'
 
 //—————「 Set Wm 」—————//
-global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 𝙰𝙳𝚁𝙸𝙰𝙽𝙱𝙾𝚃\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.author = '𝙹𝙰𝙽𝙶𝙰𝙽 𝙻𝚄𝙿𝙰 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴\n𝚈𝚃:𝙳𝚁𝚈𝙰𝙽𝙱𝙾𝚃'
+global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 AzxBot\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+global.author = '𝙹𝙰𝙽𝙶𝙰𝙽 𝙻𝚄𝙿𝙰 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴\n𝚈𝚃:Rematic Gadget'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² ini!
